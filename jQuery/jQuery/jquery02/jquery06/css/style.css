@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+header{
+    border: solid green 1px;
+}
+
+div.divBox1{
+    border: solid blue 1px;
+}
+
+div.divBox2{
+    border: solid red 1px;
+}
